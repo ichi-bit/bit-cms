@@ -1,0 +1,23 @@
+{
+  "name": "bit-cms",
+  "version": "1.0.0",
+  "description": "lightweight cms on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichi-bit/bit-cms.git"
+  },
+  "keywords": [
+    "cms",
+    "node.js"
+  ],
+  "author": "sowatsukasa@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichi-bit/bit-cms/issues"
+  },
+  "homepage": "https://github.com/ichi-bit/bit-cms#readme"
+}
